@@ -1,0 +1,19 @@
+div .flex-container {
+  display: flex;
+  flex-direction: row;  
+  height: 300px;
+}
+.flex1 {
+  flex: 1 1 20em;
+  margin: auto; 
+}
+
+.flex2 {
+  flex: 1 1 20em;
+  margin: auto; 
+}
+
+img {
+  width: 500px;
+  height: 500px;
+}
